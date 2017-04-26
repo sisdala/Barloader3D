@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 3cce02f299d71a146aa6716f3742fe15
+timeCreated: 1487062493
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Axis_Y
+    100002: Axis_Z
+    100004: Base
+    100006: Bed
+    100008: Contral
+    100010: Contral_Plane
+    100012: Door_A_Nameplate
+    100014: Door_F_L
+    100016: Door_F_R
+    100018: Door_L
+    100020: Door_R
+    100022: KnifeB
+    100024: Magazine
+    100026: Plane001
+    100028: Shell
+    100030: VMP-23A Plane
+    100032: //RootNode
+    100034: Warning_GreenLight
+    100036: Warning_Light
+    400000: Axis_Y
+    400002: Axis_Z
+    400004: Base
+    400006: Bed
+    400008: Contral
+    400010: Contral_Plane
+    400012: Door_A_Nameplate
+    400014: Door_F_L
+    400016: Door_F_R
+    400018: Door_L
+    400020: Door_R
+    400022: KnifeB
+    400024: Magazine
+    400026: Plane001
+    400028: Shell
+    400030: VMP-23A Plane
+    400032: //RootNode
+    400034: Warning_GreenLight
+    400036: Warning_Light
+    2300000: Axis_Y
+    2300002: Axis_Z
+    2300004: Base
+    2300006: Bed
+    2300008: Contral
+    2300010: Contral_Plane
+    2300012: Door_A_Nameplate
+    2300014: Door_F_L
+    2300016: Door_F_R
+    2300018: Door_L
+    2300020: Door_R
+    2300022: KnifeB
+    2300024: Magazine
+    2300026: Plane001
+    2300028: Shell
+    2300030: VMP-23A Plane
+    2300032: Warning_GreenLight
+    2300034: Warning_Light
+    3300000: Axis_Y
+    3300002: Axis_Z
+    3300004: Base
+    3300006: Bed
+    3300008: Contral
+    3300010: Contral_Plane
+    3300012: Door_A_Nameplate
+    3300014: Door_F_L
+    3300016: Door_F_R
+    3300018: Door_L
+    3300020: Door_R
+    3300022: KnifeB
+    3300024: Magazine
+    3300026: Plane001
+    3300028: Shell
+    3300030: VMP-23A Plane
+    3300032: Warning_GreenLight
+    3300034: Warning_Light
+    4300000: Base
+    4300002: Axis_Y
+    4300004: Magazine
+    4300006: Axis_Z
+    4300008: Door_R
+    4300010: Door_L
+    4300012: Door_F_L
+    4300014: Shell
+    4300016: Contral
+    4300018: Warning_Light
+    4300020: KnifeB
+    4300022: Contral_Plane
+    4300024: Warning_GreenLight
+    4300026: Door_A_Nameplate
+    4300028: Plane001
+    4300030: Door_F_R
+    4300032: Bed
+    4300034: VMP-23A Plane
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
