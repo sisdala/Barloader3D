@@ -81,6 +81,12 @@ ModelImporter:
     100146: plate007
     100148: PlateConfirm001
     100150: PlateConfirm002
+    100152: Arm
+    100154: Arm+Workplatform_2048
+    100156: Shell_Yellow_MeshPart0
+    100158: Shell_Yellow_MeshPart1
+    100160: y_axis_MeshPart0
+    100162: y_axis_MeshPart1
     400000: //RootNode
     400002: clawA
     400004: clawB
@@ -157,6 +163,12 @@ ModelImporter:
     400146: plate007
     400148: PlateConfirm001
     400150: PlateConfirm002
+    400152: Arm
+    400154: Arm+Workplatform_2048
+    400156: Shell_Yellow_MeshPart0
+    400158: Shell_Yellow_MeshPart1
+    400160: y_axis_MeshPart0
+    400162: y_axis_MeshPart1
     2300000: clawA
     2300002: clawB
     2300004: clawC
@@ -225,6 +237,10 @@ ModelImporter:
     2300130: Fix_Stick002
     2300132: plate006
     2300134: plate007
+    2300136: Shell_Yellow_MeshPart0
+    2300138: Shell_Yellow_MeshPart1
+    2300140: y_axis_MeshPart0
+    2300142: y_axis_MeshPart1
     3300000: clawA
     3300002: clawB
     3300004: clawC
@@ -293,6 +309,10 @@ ModelImporter:
     3300130: Fix_Stick002
     3300132: plate006
     3300134: plate007
+    3300136: Shell_Yellow_MeshPart0
+    3300138: Shell_Yellow_MeshPart1
+    3300140: y_axis_MeshPart0
+    3300142: y_axis_MeshPart1
     4300000: Shell_Black
     4300002: Door_FR
     4300004: Door_L
@@ -360,6 +380,10 @@ ModelImporter:
     4300128: Fix_flexible002
     4300130: Fix_F005
     4300132: Fix_B005
+    4300134: Shell_Yellow_MeshPart0
+    4300136: Shell_Yellow_MeshPart1
+    4300138: y_axis_MeshPart0
+    4300140: y_axis_MeshPart1
     7400000: Take 001
     9500000: //RootNode
   materials:
@@ -372,6 +396,8 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -408,6 +434,7 @@ ModelImporter:
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -418,7 +445,10 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
   humanoidOversampling: 1
